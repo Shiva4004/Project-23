@@ -52,4 +52,6 @@ box1.display();
 box2.display();
 box3.display();
 Engine.update(engine);
+
+drawSprites();  
 }
